@@ -1,1 +1,1 @@
-# rxjs-ts-starter
+# rxjs-ts
